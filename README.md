@@ -1,0 +1,2 @@
+# EDUGuard
+Desktop application
