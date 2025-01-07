@@ -1,2 +1,3 @@
 # EDUGuard
-Desktop application
+Mobile App
+
